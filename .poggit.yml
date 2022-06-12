@@ -5,4 +5,5 @@ branches:
 projects:
   MOTDEditor:
     path: ""
+    icon: "resources/icon.png"
 ...
