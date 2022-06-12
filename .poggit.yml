@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Coot302/MOTDEditor
+build-by-default: true
+branches:
+- main
+projects:
+  MOTDEditor:
+    path: ""
+...
