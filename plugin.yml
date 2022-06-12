@@ -1,0 +1,11 @@
+name: MOTDEditor
+
+main: Coot\MOTDEditor\MOTDEditor
+
+author: Coot
+
+api: 4.0.0
+
+description: Edit your MOTD and add colours to it.
+
+version: 0.0.1
